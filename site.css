@@ -1,4 +1,4 @@
-principal {
+.principal {
     width: 900px;
     background: black;
     margin: 0;
@@ -6,15 +6,15 @@ principal {
     text-align: justify;
 }
 
-titulo {
+.titulo {
     color: red;
 }
 
-textinho {
+.textinho {
     color: white;
 }
 
-imagem {
+.imagem {
     width: 1300;
     height: 1200;
 
