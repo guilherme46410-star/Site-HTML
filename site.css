@@ -1,0 +1,15 @@
+main {
+    width: 900px;
+    background: black;
+    margin: 0;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+titulo {
+    color: red;
+}
+
+textinho {
+    color: white;
+}
