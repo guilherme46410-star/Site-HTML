@@ -1,4 +1,4 @@
-main {
+principal {
     width: 900px;
     background: black;
     margin: 0;
@@ -12,4 +12,10 @@ titulo {
 
 textinho {
     color: white;
+}
+
+imagem {
+    width: 1300;
+    height: 1200;
+
 }
