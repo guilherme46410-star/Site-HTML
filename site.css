@@ -1,21 +1,25 @@
-principal {
-    width: 900px;
-    background: black;
-    margin: 0;
-    padding: 0 20px;
+.principal {
+    width: 100%;
+    background-color: black;
     text-align: justify;
-}
-
-titulo {
     color: red;
+    padding: 10 10px;
 }
 
-textinho {
+.titulo{
+    text-align: center;
+}
+
+.textinho {
     color: white;
+    text-align: center;
+    font-size: large;
 }
 
-imagem {
-    width: 1300;
-    height: 1200;
+.imagem1 {
+    text-align: center;
+}
 
+.imagem2 {
+    text-align: center;
 }
